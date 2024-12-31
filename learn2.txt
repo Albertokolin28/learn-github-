@@ -2,6 +2,7 @@ Learn Programming
 - Js
   ^ React
   ^ Vue
+- Algoritma dan Struktur Data
 - PHP 
 - C++
 - C#
