@@ -2,8 +2,11 @@ Learn Programming
 - Js
   ^ React
   ^ Vue
-- Algoritma dan Struktur Data
+- Database
+  ^ Mysql
+  ^ Oracle
 - PHP 
+  ^ Laravel
 - C++
 - C#
 - Java
