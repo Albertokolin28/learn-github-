@@ -3,8 +3,13 @@ Learn Programming
   ^ React
   ^ Vue
 - Algoritma dan Struktur Data
+- Database
+  ^ Mysql
+  ^ Postgresql
 - PHP 
+  ^ Laravel
 - C++
 - C#
 - Java
 - Python
+- Ruby
